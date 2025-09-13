@@ -1,10 +1,10 @@
 <ModMetaData>
 	<name>Goblin Genes</name>
-	<author>Machh</author>
+	<author>machh</author>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
-	<modIconPath IgnoreIfNoMatchingField="True">UI/AlphaGenesLogo</modIconPath>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/GoblinGenesLogo</modIconPath>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>
@@ -24,21 +24,26 @@
 		</li>
 		<li>
 			<packageId>sarg.alphagenes</packageId>
-			<displayName>AlphaGenes</displayName>		
+			<displayName>AlphaGenes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
+			<downloadUrl>https://github.com/juanosarg/AlphaGenes</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Biotech</li>
 		<li>brrainz.harmony</li>
-		<li>sarg.alphaanimals</li>
 		<li>sarg.alphagenes</li>
 
 	</loadAfter>
-	<packageId>machh.goblingenes</packageId>
+	<packageId>machh.GoblinGenes</packageId>
 	<description>Adds Goblins to Rimworld, and maybe a tree.
 
-&lt;size=24&gt;Features&lt;/size&gt;
-Gobbos
+		&lt;size=24&gt;Features&lt;/size&gt;
+		Adds two scenarios: &lt;size=18&gt;Goblin Starter Pack &lt;/size&gt; and &lt;size=18&gt;Moth Plant&lt;/size&gt;
+		&lt;size=24&gt;Goblin Starter Pack&lt;/size&gt;
+		Start with Goblin children and a their minder.
+		&lt;size=24&gt;Moth Plant&lt;/size&gt;
+		Start as a seed of an invasive plant species, with the goal of spreading and taking over the map.
 	</description>
 </ModMetaData>

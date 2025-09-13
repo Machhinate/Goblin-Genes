@@ -38,9 +38,7 @@
 			<li>AG_FrogVoice</li>
 			<li>Headbone_CenterHorn</li>
 			<li>Headbone_MiniHorns</li>
-			<li>AG_ForsakenHornsReptilian</li>
 			<li>AG_ForsakenHornsCrown</li>
-			<li>AG_ForsakenHornsGoat</li>
 			<li>Body_Thin</li>
 			<li>Skin_Green</li>
 			<li>AG_Skin_DeepGreen</li>
@@ -77,7 +75,6 @@
 			<li>AG_SurvivalInstinct_Low</li>
 			<li>AG_Filthy</li>
 			<li>AG_FasterAging</li>
-			<li>AG_VolatileMood</li>
 			<li>AG_UVSensitivity_Minor</li>
 			<li>MeleeDamage_Weak</li>
 			<li>AG_Rowdy</li>
@@ -86,17 +83,14 @@
 			<li>Libido_High</li>
 			<li>Fertile</li>
 			<li>AG_FastGestation</li>
-			<li>AG_NoWings</li>
 			<li>Ears_Pointed</li>
 			<li>AG_UnsettlingAppearance</li>
 			<li>AG_DevilEyes</li>
-			<li>Eyes_Red</li>
 			<li>Hair_BaldOnly</li>
 			<li>Beard_NoBeardOnly</li>
 			<li>AG_FrogVoice</li>
 			<li>AG_ChameleonYakHorns</li>
 			<li>AG_DemonHorns</li>
-			<li>AG_OrnateEldritchHorns</li>
 			<li>Body_Thin</li>
 			<li>Skin_Green</li>
 			<li>AG_Skin_DeepGreen</li>
@@ -138,19 +132,14 @@
 			<li>AG_NightOwl</li>
 			<li>Libido_High</li>
 			<li>Fertile</li>
-			<li>AG_NoWings</li>
 			<li>Ears_Pointed</li>
 			<li>AG_UnsettlingAppearance</li>
-			<li>AG_DevilEyes</li>
 			<li>Eyes_Red</li>
 			<li>Hair_BaldOnly</li>
 			<li>Beard_NoBeardOnly</li>
 			<li>VoicePig</li>
 			<li>AG_BullHorns</li>
 			<li>AG_ForsakenHornsBull</li>
-			<li>AG_ForsakenHornsSheep</li>
-			<li>AG_ForsakenHornsReptilian</li>
-			<li>AG_ForsakenHornsDevil</li>
 			<li>Body_Standard</li>
 			<li>Skin_Green</li>
 			<li>AG_Skin_DeepGreen</li>
@@ -210,10 +199,9 @@
 			<li>AG_ForsakenHornsBull</li>
 			<li>AG_ForsakenQuadruple</li>
 			<li>AG_Digitigrade</li>
-			<li>Body_Hulk</li>
-			<li>Skin_SlateGray</li>
-			<li>Skin_InkBlack</li>
-			<li>AG_Skin_TrueBlack</li>
+			<li>Skin_Green</li>
+			<li>AG_Skin_DeepGreen</li>
+			<li>AG_Skin_PlantGreen</li>
 			<li>Learning_Fast</li>
 			<li>AG_BioluminescentEyes</li>
 			<li>CaveDweller</li>
@@ -238,7 +226,7 @@
 		<label>goblin slave</label>
 		<description>Xenotype made to support Goblin reproduction, overcoming their unsettling appearance to other genotypes. given the ability to violently inject their xenogenes</description>
 		<descriptionShort></descriptionShort>
-		<iconPath>UI/Icons/Xenotypes/GG_GoblinKind</iconPath>
+		<iconPath>UI/Icons/Xenotypes/GG_GoblinSlave</iconPath>
 		<combatPowerFactor>0.8</combatPowerFactor>
 		<inheritable>false</inheritable>
 		<genes>
@@ -254,17 +242,17 @@
 	</XenotypeDef>
 	<XenotypeDef>
 		<defName>GG_GoblinDemon</defName>
-		<label>goblin slave</label>
-		<description>Perfected Xenotype made to support Goblins, overcoming their unsettling appearance to other genotypes. Can also be used to augment goblins to their intended final form</description>
+		<label>Demon Patch</label>
+		<description>Perfected Xenotype made to patch over the Goblin Xenotype, but has seen success outside of Goblins.</description>
 		<descriptionShort></descriptionShort>
-		<iconPath>UI/Icons/Xenotypes/GG_GoblinRoyal</iconPath>
+		<iconPath>UI/Icons/Xenotypes/GG_GoblinSlave</iconPath>
 		<combatPowerFactor>0.8</combatPowerFactor>
 		<inheritable>false</inheritable>
 		<genes>
 			<li>Ageless</li>
 			<li>ArchiteMetabolism</li>
 			<li>Deathless</li>
-			<li>XenogermReimplanter</li>
+			<li>AG_InsectStinger</li>
 			<li>DiseaseFree</li>
 			<li>PerfectImmunity</li>
 			<li>TotalHealing</li>
