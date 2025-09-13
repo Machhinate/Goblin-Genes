@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<RulePackDef>
+		<defName>GG_NamerPersonGoblin</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->[firstName] [lastName]</li>
+				<li>firstName->[Goblin]</li>
+				<li>lastName->[Goblin]</li>
+			</rulesStrings>
+			<rulesFiles>
+				<li>Goblin->Names/Names_GoblinKind</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

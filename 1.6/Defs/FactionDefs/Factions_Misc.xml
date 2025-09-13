@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<FactionDef ParentName="PirateBandBase">
+		<defName>GG_GoblinHive</defName>
+		<label>goblin hive</label>
+		<classicIdeo>true</classicIdeo>
+		<description>A loose union of goblin nests. Often uses Ents to cover for their weaknesses</description>
+		<factionIconPath>World/GG_GoblinHive</factionIconPath>
+
+		<xenotypeSet Inherit="False">
+			<xenotypeChances>				
+				<GG_GoblinKind>0.40</GG_GoblinKind>			
+				<GG_GoblinBrute>0.10</GG_GoblinBrute>
+				<GG_GoblinSlave>0.10</GG_GoblinSlave>
+				<GG_GoblinMage>0.10</GG_GoblinMage>
+				<GG_GoblinRoyal>0.05</GG_GoblinRoyal>
+				<GG_Ent>0.05</GG_Ent>
+				<GG_GoblinDemon>0.05</GG_GoblinDemon>
+			</xenotypeChances>
+			
+		</xenotypeSet>
+		<maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+		<colorSpectrum>
+      <li>(0.0, 0.20, 0.0)</li>
+      <li>(0.1, 0.60, 0.10)</li>
+    </colorSpectrum>
+		<configurationListOrderPriority>10</configurationListOrderPriority>
+	</FactionDef>
+
+</Defs>

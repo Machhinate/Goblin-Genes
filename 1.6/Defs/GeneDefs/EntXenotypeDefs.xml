@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<XenotypeDef>
+		<defName>GG_Ent</defName>
+		<label>ent</label>
+		<description>Crafted to survive with minimal food to the extreme, resulting in creature more plant than man.</description>
+		<descriptionShort>Crafted to survive with minimal food to the extreme, resulting in creature more plant than man. Ages slowly and has near perfect regeneration.</descriptionShort>
+		<iconPath>UI/Icons/Xenotypes/GG_GoblinKind</iconPath>
+		<combatPowerFactor>0.8</combatPowerFactor>
+		<inheritable>true</inheritable>
+		<genes>
+			<li>ArchiteMetabolism</li>
+			<li>AG_AsexualFission</li>
+			<li>DiseaseFree</li>
+			<li>PerfectImmunity</li>
+			<li>TotalHealing</li>
+			<li>VacuumResistance_Total</li>
+			<li>AG_LargerBodySize</li>
+			<li>AG_ForsakenBlood</li>
+			<li>AG_PukeWater</li>
+			<li>AG_WoodLeather</li>
+			<li>AG_LightSustenance</li>
+			<li>AG_UnderdevelopedTeeth</li>
+			<li>WoundHealing_Slow</li>
+			<li>Superclotting</li>
+			<li>AG_LimbRegeneration</li>
+			<li>AG_ExtraLeather</li>
+			<li>AG_ExtraordinaryLifespan</li>
+			<li>AG_ArmourMinor</li>
+			<li>NakedSpeed</li>
+			<li>AG_LightStriding</li>
+			<li>AG_ToxResist_Vulnerability</li>
+			<li>FireWeakness</li>
+			<li>Aggression_DeadCalm</li>
+			<li>Sterile</li>
+			<li>AG_LongEars</li>
+			<li>AG_RadYakEars</li>
+			<li>Hair_LongOnly</li>
+			<li>AG_RockVoice</li>
+			<li>FacialRidges</li>
+			<li>AG_AntlerHorns</li>
+			<li>Body_Thin</li>
+			<li>Hair_LightGreen</li>
+			<li>AG_Hair_PaleGreen</li>
+			<li>Skin_Green</li>
+			<li>AG_Skin_DeepGreen</li>
+			<li>AG_Skin_PlantGreen</li>
+			<li>AG_BodyTentacles</li>
+			<li>Learning_Slow</li>
+			<li>Hair_Grayless</li>
+			<li>ElongatedFingers</li>
+			<li>Unstoppable</li>
+			<li>AptitudePoor_Shooting</li>
+			<li>AptitudeStrong_Melee</li>
+			<li>AptitudeStrong_Construction</li>
+			<li>AptitudeStrong_Mining</li>
+			<li>AptitudeTerrible_Cooking</li>
+			<li>AptitudeRemarkable_Plants</li>
+			<li>AptitudeStrong_Animals</li>
+			<li>AptitudePoor_Artistic</li>
+			<li>AptitudeRemarkable_Medicine</li>
+			<li>AptitudePoor_Social</li>
+			<li>ChemicalDependency_Smokeleaf</li>
+			<li>AG_NoMeat</li>
+		</genes>
+	</XenotypeDef>
+</Defs>
