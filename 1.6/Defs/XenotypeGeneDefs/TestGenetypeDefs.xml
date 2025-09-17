@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<XenotypeDef>
+		<defName>GG_GeneTest</defName>
+		<label>genetests</label>
+		<description>....</description>
+		<descriptionShort>......\n.....</descriptionShort>
+		<iconPath>UI/Icons/Xenotypes/GG_GoblinSlave</iconPath>
+		<combatPowerFactor>0.1</combatPowerFactor>
+		<inheritable>true</inheritable>
+		<genes>
+			<li>AG_SlimeBlood</li>
+			<li>GG_UnnaturalHealing</li>
+			<li>GG_TransmuteSteel</li>
+      <li>GG_PsychicSlaughter</li>
+      <li>GG_ReleaseDeadlifeDust</li>
+      <li>GG_RevenantInvisibility</li>
+      <li>GG_VoidTerror</li>
+      <li>GG_AgonyPulse</li>
+    	<li>GG_ShapeFlesh</li>
+			<li>GG_UnstableFission</li>
+		</genes>
+	</XenotypeDef>
+
+
+	
+
+</Defs>

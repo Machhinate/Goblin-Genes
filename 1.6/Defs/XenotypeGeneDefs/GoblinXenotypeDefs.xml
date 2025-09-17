@@ -7,6 +7,8 @@
 		<description>An attempt to create humans that would reproduce rapidly for establishing a workforce. Unfortunately this came with some quirks; often unable to survive without leadership due to their love of fire.</description>
 		<descriptionShort>An attempt to create humans that would reproduce rapidly, unfortunately this came with some quirks</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/GG_GoblinKind</iconPath>
+		<nameMaker>GG_NamerPersonGoblin</nameMaker>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<combatPowerFactor>0.8</combatPowerFactor>
 		<inheritable>true</inheritable>
 		<genes>
@@ -61,6 +63,8 @@
 		<description>Subtype of Goblins; An attempt to create humans that would reproduce rapidly to establishing a workforce. has an aptitude for managing the moods of other Goblins, but usually gets stuck dealing with all the fires other Goblins set.</description>
 		<descriptionShort>Subtype of Goblins: An attempt to create humans that would reproduce rapidly.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/GG_GoblinMage</iconPath>
+				<nameMaker>GG_NamerPersonGoblin</nameMaker>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<combatPowerFactor>0.8</combatPowerFactor>
 		<inheritable>true</inheritable>
 		<genes>
@@ -115,6 +119,8 @@
 		<description>Subtype of Goblins; An attempt to create humans that would reproduce rapidly for establishing a workforce. Much more combat focused, but usually gets stuck dealing with all the fires other Goblins set.</description>
 		<descriptionShort>Subtype of Goblins: An attempt to create humans that would reproduce rapidly.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/GG_GoblinBrute</iconPath>
+				<nameMaker>GG_NamerPersonGoblin</nameMaker>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<combatPowerFactor>0.8</combatPowerFactor>
 		<inheritable>true</inheritable>
 		<genes>
@@ -162,6 +168,8 @@
 		<description>Rare Subtype of Goblins; An attempt to create humans that would reproduce rapidly for establishing a workforce. Made to be a leader, born to deal with Goblin fires.</description>
 		<descriptionShort>Rare Subtype of Goblins: An attempt to create humans that would reproduce rapidly.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/GG_GoblinRoyal</iconPath>
+				<nameMaker>GG_NamerPersonGoblin</nameMaker>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<combatPowerFactor>0.8</combatPowerFactor>
 		<inheritable>true</inheritable>
 		<genes>

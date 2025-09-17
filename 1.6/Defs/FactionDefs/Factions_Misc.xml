@@ -11,12 +11,12 @@
 		<xenotypeSet Inherit="False">
 			<xenotypeChances>				
 				<GG_GoblinKind>0.40</GG_GoblinKind>			
-				<GG_GoblinBrute>0.10</GG_GoblinBrute>
+				<GG_GoblinBrute>0.05</GG_GoblinBrute>
 				<GG_GoblinSlave>0.10</GG_GoblinSlave>
-				<GG_GoblinMage>0.10</GG_GoblinMage>
-				<GG_GoblinRoyal>0.05</GG_GoblinRoyal>
+				<GG_GoblinMage>0.05</GG_GoblinMage>
+				<GG_GoblinRoyal>0.001</GG_GoblinRoyal>
 				<GG_Ent>0.05</GG_Ent>
-				<GG_GoblinDemon>0.05</GG_GoblinDemon>
+				<GG_GoblinDemon>0.001</GG_GoblinDemon>
 			</xenotypeChances>
 			
 		</xenotypeSet>

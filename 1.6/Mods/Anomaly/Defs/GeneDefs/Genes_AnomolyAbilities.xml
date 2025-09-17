@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <GeneDef>
+    <defName>GG_UnnaturalHealing</defName>
+    <label>UnnaturalHealing</label>
+    <labelShortAdj>unnatural healer</labelShortAdj>
+    <description>Carriers of this gene Use dark psychic influence to heal someone. The process will stop bleeding, restore blood loss, and can even heal significant injuries. However, it may also have unexpected side effects.</description>
+    <iconPath>UI/Abilities/UnnaturalHealing</iconPath>
+    <abilities>
+      <li>UnnaturalHealing</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>UnnaturalHealing</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>life</symbol></li>
+        <li><symbol>clotter</symbol></li>
+        <li><symbol>tender</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_TransmuteSteel</defName>
+    <label>TransmuteSteel</label>
+    <labelShortAdj>transmuteSteel</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/TransmuteSteel</iconPath>
+    <abilities>
+      <li>TransmuteSteel</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>TransmuteSteel</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_PsychicSlaughter</defName>
+    <label>PsychicSlaughter</label>
+    <labelShortAdj>transmuteSteel</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/PsychicSlaughter</iconPath>
+    <abilities>
+      <li>PsychicSlaughter</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>PsychicSlaughter</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_ReleaseDeadlifeDust</defName>
+    <label>ReleaseDeadlifeDust</label>
+    <labelShortAdj>ReleaseDeadlifeDust</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/ReleaseDeadlifeDust</iconPath>
+    <abilities>
+      <li>ReleaseDeadlifeDust</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>ReleaseDeadlifeDust</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_RevenantInvisibility</defName>
+    <label>RevenantInvisibility</label>
+    <labelShortAdj>RevenantInvisibility</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/RevenantInvisibility</iconPath>
+    <abilities>
+      <li>RevenantInvisibility</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>RevenantInvisibility</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_VoidTerror</defName>
+    <label>VoidTerror</label>
+    <labelShortAdj>VoidTerror</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/VoidTerror</iconPath>
+    <abilities>
+      <li>VoidTerror</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>VoidTerror</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_AgonyPulse</defName>
+    <label>AgonyPulse</label>
+    <labelShortAdj>AgonyPulse</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/AgonyPulse</iconPath>
+    <abilities>
+      <li>AgonyPulse</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>AgonyPulse</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>GG_ShapeFlesh</defName>
+    <label>ShapeFlesh</label>
+    <labelShortAdj>ShapeFlesh</labelShortAdj>
+    <description>Carriers of this gene can reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</description>
+    <iconPath>UI/Abilities/ShapeFlesh</iconPath>
+    <abilities>
+      <li>ShapeFlesh</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>ShapeFlesh</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>3</biostatCpx>
+    <minAgeActive>3</minAgeActive>
+    <symbolPack>
+      <suffixSymbols>
+        <li><symbol>iron</symbol></li>
+        <li><symbol>hard</symbol></li>
+        <li><symbol>flux</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+</Defs>
